@@ -21,6 +21,7 @@ The Demon incantation: GoMoKuKuMoGoMoKu !!!!!!
 ![alt text](Planner.jpg)
 ![alt text](Note1.png) ![alt text](Note2.png) ![alt text](Note3.png)
 
+Video demo:
 [![Watch the video](https://img.youtube.com/vi/xv8OzeibTxo/0.jpg)](https://www.youtube.com/watch?v=xv8OzeibTxo)
 
 Platform information
