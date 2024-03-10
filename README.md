@@ -20,6 +20,7 @@ The Demon incantation: GoMoKuKuMoGoMoKu !!!!!!
 
 ![alt text](Planner.jpg)
 ![alt text](2.png) ![alt text](3.png) ![alt text](4.png)
+<video controls src="NormalMode.mp4" title="Title"></video>
 
 Platform information
 ---------------------
