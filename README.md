@@ -22,7 +22,7 @@ Platform information
 ---------------------
 Cygwin Ver. 2.905, OS: Win10, 64-bit
 
-
+![alt text](Planner.jpg)
 
 Compilation Guide
 ------------------
