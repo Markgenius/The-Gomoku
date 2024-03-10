@@ -18,11 +18,13 @@ Story: Do you still remember the Brain Smashing game(project1)? After this previ
 
 The Demon incantation: GoMoKuKuMoGoMoKu !!!!!!
 
+![alt text](Planner.jpg)
+![alt text](2.png) ![alt text](3.png) ![alt text](4.png)
+
 Platform information
 ---------------------
 Cygwin Ver. 2.905, OS: Win10, 64-bit
 
-![alt text](Planner.jpg)
 
 Compilation Guide
 ------------------
