@@ -19,9 +19,9 @@ Story: Do you still remember the Brain Smashing game(project1)? After this previ
 The Demon incantation: GoMoKuKuMoGoMoKu !!!!!!
 
 ![alt text](Planner.jpg)
-![alt text](Note2.png) ![alt text](Note3.png) ![alt text](Note4.png)
+![alt text](Note1.png) ![alt text](Note2.png) ![alt text](Note3.png)
 
-[![Watch the video](https://img.youtube.com/vi/xv8OzeibTxo/0.jpg)](https://www.youtube.com/watch?v=xv8OzeibTxo "Click to watch the video")
+[![Watch the video](https://img.youtube.com/vi/xv8OzeibTxo/0.jpg)](https://www.youtube.com/watch?v=xv8OzeibTxo)
 
 Platform information
 ---------------------
