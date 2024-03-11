@@ -47,26 +47,26 @@ Compilation Guide
 
 Basic requirements
 ------------------
-Show chess and board on the screen ------ done
-Compete with computer ------ done
-The size of board is 15 × 15 ------ done
-Black chess played first ------ done
-Take turns to play black chess and white chess ------ done
-Play one chess per turn ------ done
-Win if 5 of your chess connected in a row/column/diagonal ------ done
-If more than 5 chess connected, continue the game ------ done
-If no chess can win until the board is out of space, the game ended in a tie ------ done
-Use keyboard arrow key or mouse to play the chess ------ done
+    Show chess and board on the screen ------ done
+    Compete with computer ------ done
+    The size of board is 15 × 15 ------ done
+    Black chess played first ------ done
+    Take turns to play black chess and white chess ------ done
+    Play one chess per turn ------ done
+    Win if 5 of your chess connected in a row/column/diagonal ------ done
+    If more than 5 chess connected, continue the game ------ done
+    If no chess can win until the board is out of space, the game ended in a tie ------ done
+    Use keyboard arrow key or mouse to play the chess ------ done
 
 
 Bonus
 ------
-Extremely clever and cunning Algorithm of computer ------- done
-Interesting heroic background story ---------------------- done
-You can decide your chess colour and order --------------- done
-Showing time on the screen, which human has 15 sec ------- done
-Fabulous art work design of user interface --------------- done
-Useful cheat mode to give you some great ways to chess --- done
-Two debug modes let you understand the AI operation ------ done
+    Extremely clever and cunning Algorithm of computer ------- done
+    Interesting heroic background story ---------------------- done
+    You can decide your chess colour and order --------------- done
+    Showing time on the screen, which human has 15 sec ------- done
+    Fabulous art work design of user interface --------------- done
+    Useful cheat mode to give you some great ways to chess --- done
+    Two debug modes let you understand the AI operation ------ done
 
 Hope you enjoy the game The Gomoku, and save the world from the Demon computer :)
